@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">MyGroceryInventory</string>
+    <string name="button_login">Ingresar</string>
 </resources>
